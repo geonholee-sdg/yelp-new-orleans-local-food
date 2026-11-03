@@ -1,0 +1,6 @@
+data/raw/
+data/new_orleans/reviews_new_orleans.rds
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
